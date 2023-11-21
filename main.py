@@ -1,4 +1,6 @@
 import problema1
+from alumnos import alumnos
+
 '''
 Hasta ahora podemos seguir escribiendo
 
